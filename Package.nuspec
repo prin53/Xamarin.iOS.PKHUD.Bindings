@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Prin53.Xamarin.PKHUD</id>
+        <version>1.0.1</version>
+        <authors>Denys Fiediaiev</authors>
+        <owners>Denys Fiediaiev</owners>
+        <licenseUrl>https://github.com/Prin53/Xamarin.PKHUD/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/Prin53/Xamarin.PKHUD</projectUrl>
+        <iconUrl>http://imgur.com/jDiKURX</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>PKHUD Xamarin</description>
+        <releaseNotes>Default constructors were removed.</releaseNotes>
+        <copyright>Denys Fiediaiev 2016</copyright>
+        <tags>Xamarin PKHUD</tags>
+        <dependencies>
+            <dependency id="Xamarin.Swift3" version="3.0.0"/>
+            <dependency id="Xamarin.Swift3.Core" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.CoreGraphics" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.CoreImage" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.Darwin" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.Dispatch" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.Foundation" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.ObjectiveC" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.QuartzCore" version="3.0.1" />
+            <dependency id="Xamarin.Swift3.UIKit" version="3.0.1" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="Xamarin.PKHUD\bin\Release\Xamarin.PKHUD.dll" target="lib\Xamarin.iOS" />
+    </files>
+</package>

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.PKHUD", "Xamarin.PKHUD\Xamarin.PKHUD.csproj", "{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Release|iPhone.Build.0 = Release|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D1339E27-DEF3-4808-BD12-92C10DEFEC2D}.Debug|iPhone.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
