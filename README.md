@@ -1,3 +1,5 @@
+[![NuGet version](https://badge.fury.io/nu/Prin53.Xamarin.PKHUD.svg)](https://badge.fury.io/nu/Prin53.Xamarin.PKHUD)
+
 ## Xamarin.iOS bindings library for [PKHUD](https://github.com/pkluz/PKHUD) swift library
 Thanks to [Lucas Teixeira](https://github.com/Flash3001) for helping and for the [Xamarin.Swift3.Support](https://github.com/Flash3001/Xamarin.Swift3.Support) packages.
 ## Usage Example
